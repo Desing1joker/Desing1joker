@@ -1,4 +1,6 @@
 ## Hi there 👋
-🔭 I’m currently working on an Internship...
-🌱 I’m currently learning with Meta craftlab AI...
+
+ *I’m currently working on an Internship.
+
+ *Learning with Meta craftlab AI.
 
